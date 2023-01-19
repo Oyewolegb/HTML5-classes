@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+	
+	color: pink;
+	padding: 20px 33px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 7px 4px;
+	cursor: pointer;
+}
+
+.button1 {background-color: #008CBA;}
+/* Blue */
+.button2 {background-color: #808080;}
+/* gray */
+.button3 {background-color: #8B4513;}
+/* brown */
+</style>
+</head>
+<body>
+
+<h1>The button element - Styled with CSS</h1>
+<p>Responsive HTML e-mail template:</p>
+
+<button class="button button1">Blue</button>
+<button class="button button2">Gray</button>
+<button class="button button3">Brown</button>
+</body>
+</html>
